@@ -75,8 +75,8 @@ Os gráficos serão salvos automaticamente na pasta `images/`.
 
 ## 📊 Exemplo de visualização
 
-![Sazonalidadel](images/sazonalidade_mensal.png)
-![Série temporal](images/foco_por_bioma.png)
+![Sazonalidade](images/sazonalidade_mensal.png)
+![Visualização por Bioma](images/focos_por_bioma.png)
 
 ## 👤 Autor
 
