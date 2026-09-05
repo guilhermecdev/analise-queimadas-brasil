@@ -1,8 +1,6 @@
 """
 Projeto: Análise do Índice de Queimadas no Brasil
 Autor: Guilherme Cardozo de Andrade
-Descrição: Análise exploratória de focos de queimadas por estado, bioma e
-ano, usando pandas, numpy e matplotlib.
 
 Fonte de inspiração: padrões públicos do Programa Queimadas (INPE).
 Dataset sintético gerado em src/gerar_dados.py — para dados reais, ver
