@@ -42,7 +42,6 @@ analise-queimadas-brasil/
 ├── src/
 │   ├── gerar_dados.py             # script que gera o dataset sintético
 │   └── analise.py                 # script principal da análise
-├── requirements.txt
 └── README.md
 ```
 
